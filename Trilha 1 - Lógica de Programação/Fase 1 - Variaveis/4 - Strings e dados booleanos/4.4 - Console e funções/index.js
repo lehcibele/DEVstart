@@ -1,0 +1,14 @@
+// function dobro(numero) {
+//     console.log(numero * 2);
+// }
+
+// let resultado = dobro(4)
+// console.log(resultado)  // resultado é undefined
+
+function dobro(numero) {
+    console.log(numero * 2);
+    return numero * 2
+}
+
+let resultado = dobro(4) // resultado receberá 8,
+// e será impresso 8 no console
