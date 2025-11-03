@@ -1,0 +1,9 @@
+let temperaturas = [-5, 12, 15, 18, 13]
+
+let total = 0
+
+temperaturas.forEach(function(temperatura) {
+  total = total + temperatura
+})
+
+console.log(total)
