@@ -1,0 +1,1 @@
+# Strings com múltiplas linhas
