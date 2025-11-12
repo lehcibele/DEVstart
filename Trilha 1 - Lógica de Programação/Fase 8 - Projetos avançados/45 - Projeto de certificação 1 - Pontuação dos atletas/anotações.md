@@ -104,4 +104,4 @@ https://github.com/nomedeusuario/notas-atletas
 
 ## Link da solução
 
-- [Link da solução]
+- [Link da solução](https://github.com/lehcibele/projeto-de-certificacao-1-pontuacao-dos-atletas)
